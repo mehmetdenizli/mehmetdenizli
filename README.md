@@ -7,7 +7,7 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/SenseiRofu/SenSeiRofu/blob/main/berserk-berserker.gif" width="350" />
+  <img src="https://github.com/foriinji/foriinji/blob/main/DEVOPS.gif?raw=true" width="350" />
 </p>
 
 
