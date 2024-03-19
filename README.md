@@ -1,18 +1,15 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Mehmet Denizli is here. 
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm Mehmet</a>.<br> Cloud|DevOps Engineer <br><br></samp>
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="https://github.com/SenseiRofu/SenSeiRofu/blob/main/berserk-berserker.gif" width="350" />
+</p>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/foriinji)
-<a href="https://<buraya isim yaz>.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=" alt="visitor counter"/>
-<!-- <p align="left">  </p> -->
-
-### What I'm using ? 🛠     
-
-2022 is the year that changed my life dramatically. I succesfully closed a chapter in my life and started a journey in IT World.
-I have succesfully mastered Git, Github, HTML,CSS, Linux, IT Fundamentals, Computational Thinking and Basic Python.Now I chose the AWS&DevOps path and promised to learn and do everything I need to learn on this path
-<br/>
-
-- Python, HTML5, CSS3, Git, GitHub,Aws,DevOps,Terraform,Docker,Kubernetes,Linux,Ansible
-
-- 💬 Ask  me about anything that you want to learn
 
 
 
