@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Mehmet Denizli is here. 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/foriinji)
-<a href="https://asumankamberoglu.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=asuman" alt="visitor counter"/>
+<a href="https://<buraya isim yaz>.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
 ### What I'm using ? 🛠     
@@ -14,7 +14,6 @@ I have succesfully mastered Git, Github, HTML,CSS, Linux, IT Fundamentals, Compu
 
 - 💬 Ask  me about anything that you want to learn
 
--  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/asuman-kambero%C4%9Flu-b00680236/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 
 ## 🚴 Skills
@@ -41,6 +40,6 @@ I have succesfully mastered Git, Github, HTML,CSS, Linux, IT Fundamentals, Compu
 
 ## 📈 Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=asumankamberoglu&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asumankamberoglu&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asumankamberoglu&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=foriinji&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=foriinji&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foriinji&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
