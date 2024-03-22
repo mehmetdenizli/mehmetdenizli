@@ -5,9 +5,6 @@
   <img src="https://github.com/foriinji/foriinji/blob/main/DEVOPS.gif?raw=true" width="350" />
 </p>
 
-
-
-
 ## 🚴 Skills
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
