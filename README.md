@@ -1,11 +1,6 @@
 <p align="center">
   <br>
-  <br>
-  <br>
   <samp>Hello there. I'm Mehmet</a>.<br> Cloud|DevOps Engineer <br><br></samp>
-  <br>
-  <br>
-  <br>
   <br>
   <img src="https://github.com/foriinji/foriinji/blob/main/DEVOPS.gif?raw=true" width="350" />
 </p>
